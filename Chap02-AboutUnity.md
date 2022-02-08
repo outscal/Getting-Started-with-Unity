@@ -1,4 +1,4 @@
-# 2. About Unity
+#  About Unity
 
 
 *Entity Component System (ECS)* is the main concept that goes behind working with Unity Game Engine. But what is Entity Component System? Got Confused??😕 Let’s divide ECS into three parts-: 👇
