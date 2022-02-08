@@ -1,4 +1,4 @@
-# 4. Toolbar and Navigation in Unity Editor
+#  Toolbar and Navigation in Unity Editor
 
 The Toolbar at the top of the Editor helps in navigating around the scene view and positioning or moving GameObjects.
 
