@@ -1,4 +1,4 @@
-# 6. Game View
+#  Game View
 
 - The *game view* represents the final published application where all the game objects from the scene view get displayed.
     
