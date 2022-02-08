@@ -1,4 +1,4 @@
-# 10. Components
+# Components
 
 - Every game object has different components depending upon the type of game object we have created. Components in a game object allow us to perform certain actions with our game object during the scene. Some of the highly used components have been mentioned below:
     - Transform: It is one of the main components of a game object. We cannot remove a transform component from our game object, every game object has a transform component. There are 3 sub-components under the transform component which are Position - it helps in updating positions of game objects in respective axes depending on the type of game(3D or 2D).
