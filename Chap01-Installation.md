@@ -1,4 +1,4 @@
-# 1. Installation                                                                        
+#  Installation                                                                        
 
 
 - Download *Unity Hub* from the given link 👉 [https://unity3d.com/get-unity/download](https://unity3d.com/get-unity/download)
