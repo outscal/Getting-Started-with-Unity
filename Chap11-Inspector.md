@@ -1,4 +1,4 @@
-# 11. Inspector
+#  Inspector
 
 - **Inspector Window** is used to modify the components of the game object that’s used to create a video game.
 - When you open an empty project, at the very beginning you will see a blank inspector window on the right of the editor. *If you don’t see any inspector window floating on your editor then do the following: 👇*
