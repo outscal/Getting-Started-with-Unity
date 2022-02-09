@@ -6,7 +6,7 @@ Let's build our first GameObject. Right Click on an empty area inside the Hierar
 
 ![Create your First GameObject](./Images/CreateCube.png)
 
-Ok before we move further, this is a big moment. It may seem small but you should celebrate your small victories as well.
+Ok before we move further, this is a big moment. You just made your first GameObject! It may seem small but you should celebrate your small victories as well.
 
 ![Is this too much](https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif)
 
