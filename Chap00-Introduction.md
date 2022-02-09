@@ -1,11 +1,19 @@
 # Introduction
 
-Hello there,
+Hello there 👋
+
+So you have finally decided to learn Unity. First off let me congratulate you on making it thi far and taking the plunge. You're already off to a good start. Keep the momentum going.
 
 Before you had into battle. You're going to need some tools.
 
 ![Preparing for Battle](https://media.giphy.com/media/Om2ozaOw3rNciJCf2t/giphy-downsized-large.gif)
 
-Since you're here, we are going to assume that you're curious about game development in some shape or form. And there are many others just like you who are learning along with us. Join our discord to become a part of the Outscal Clan and learn together.
+Unity is a great starting point, especially for people who are new to game dev. It gives you the ability to deploy to various platforms, has a great editor UI, and let's you script your game in C#.
+
+It is also widely adopted and used in the gaming industry.
+
+It may seem daunting in the beginning but you will catch up in no time. Just know that you're not alone in this journey and there are many others leanring along with you on our [Discord](https://discord.com/invite/R4hfXhsWjN). Feel free to drop in and say Hi!.
+
+Let's get started and get you access to your tools.
 
 
