@@ -8,6 +8,7 @@ Before you had into battle. You're going to need some tools.
 
 ![Preparing for Battle](https://media.giphy.com/media/Om2ozaOw3rNciJCf2t/giphy-downsized-large.gif)
 
+## Why Unity?
 Unity is a great starting point, especially for people who are new to game dev. It gives you the ability to deploy to various platforms, has a great editor UI, and let's you script your game in C#.
 
 It is also widely adopted and used in the gaming industry.
