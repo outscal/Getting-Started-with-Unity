@@ -15,5 +15,3 @@ Click the *Main Camera* from the Hierarchy Window and you will see its propertie
 ![editor](./Images/e1.png)
     
 *Recommended: 🔴 Play around with these values to get comfortable with the **Inspector.***
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
