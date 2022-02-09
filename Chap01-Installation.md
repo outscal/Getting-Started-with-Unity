@@ -21,13 +21,3 @@ Click the **Install Editor** button on the top right.
  Check ☑️ the **Microsoft Visual Studio Community** for Dev Tools and **Documentation.**
  *Don’t Worry!!* You can add all the build modules later on as per your project requirements.
  Click *Install* and boooommmmm🔥!!! Your Unity Installation is done.
-
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-
-</aside>
-
-![discord](./Images/discord.png)
-
----
