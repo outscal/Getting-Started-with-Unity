@@ -14,6 +14,6 @@ Use the ‘Play/Pause/ Step’ Toolbar options to test it.
     
 ![gameviewtoolbar](./Images/gameviewtoolbar.png)
 
-Another use for the game view can be just playing something you created and enjoying it. Crazy, right!
+Another use for the game view can be just playing something you created and enjoying it. Crazy, right?
 
 ![I'm Smart, Trust me](https://media.giphy.com/media/VEsfbW0pBu145PPhOi/giphy.gif)
