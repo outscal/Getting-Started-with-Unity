@@ -3,7 +3,7 @@
 
 - Download *Unity Hub* from the given link 👉 [https://unity3d.com/get-unity/download](https://unity3d.com/get-unity/download)
     
-    <img src="./Images/downlad_unity_hub.png" alt="Download Unity Hub" width="1200"/>
+    <img src="./Images/downlad_unity_hub.png" alt="Download Unity Hub" width="2400"/>
     
 - Install the Unity Hub Setup
 - After Installation, Go to the **Installs** tab on the left of the Unity Hub.
