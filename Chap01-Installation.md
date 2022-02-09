@@ -29,3 +29,5 @@ Click the **Install Editor** button on the top right.
  Click *Install* and that's it!!! Your Unity Installation is done.
 
 ![Clicks Install](https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif)
+
+Time to start your training 🔫 I'll see you in the next section.
