@@ -1,7 +1,9 @@
 #  Installation                                                                        
 
 
-Let's get you access to your most important tool. Follow me!
+Let's get you access to your most important tool. 
+
+![Follow me!](https://media.giphy.com/media/l2YWEvB4CEtuLdsiI/giphy.gif)
 
 Download *Unity Hub* from the given link 👉 [https://unity3d.com/get-unity/download](https://unity3d.com/get-unity/download)
     
