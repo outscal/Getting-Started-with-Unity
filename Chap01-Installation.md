@@ -1,6 +1,8 @@
 #  Installation                                                                        
 
 
+Let's get you access to your most important tool. Follow me!
+
 Download *Unity Hub* from the given link 👉 [https://unity3d.com/get-unity/download](https://unity3d.com/get-unity/download)
     
    ![Download Unity Hub](./Images/downlad_unity_hub.png)
@@ -19,5 +21,9 @@ Click the **Install Editor** button on the top right.
    ![Unity Editor Installation](./Images/editor.png)
     
  Check ☑️ the **Microsoft Visual Studio Community** for Dev Tools and **Documentation.**
+
  *Don’t Worry!!* You can add all the build modules later on as per your project requirements.
- Click *Install* and boooommmmm🔥!!! Your Unity Installation is done.
+
+ Click *Install* and that's it!!! Your Unity Installation is done.
+
+![Clicks Install](https://media.giphy.com/media/5yLgoceMKx0i315By6Y/giphy.gif)
