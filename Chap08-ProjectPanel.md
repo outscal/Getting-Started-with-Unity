@@ -2,7 +2,7 @@
 
 This one is pretty straight forward. This is just Unity's version of the File Explorer.
 
-[I had to](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)
+![I had to](https://media.giphy.com/media/l36kU80xPf0ojG0Erg/giphy.gif)
 
 The Project Panel window displays all the files and folders we have included in our project. Every file that we use in our project can be navigated through the Project Panel.
 
