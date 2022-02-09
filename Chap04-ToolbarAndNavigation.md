@@ -43,16 +43,17 @@ Center or Pivot – Changes where the tool gizmo appears on the object, this onl
 
 Toggle Grid Snapping – Only available when the handle rotation is set to Global, this allows snapping the movement of objects in the Editor
     
-    ![Grid_Snapping](./Images/Grid_Snapping.png)
+![Grid_Snapping](./Images/Grid_Snapping.png)
     
     Top Right corner dropdowns: 
     
 Collab – Launch Unity Collaborate
     
-    ![Collab](./Images/COllab.png)
+![Collab](./Images/COllab.png)
     
 
 Cloud icon opens the Unity Services Window
+
 *Account* lets you access your Unity account
 
 *Layers* option lets you control what objects appear in the scene view
