@@ -1,5 +1,9 @@
 #  Inspector
 
+As an Inspector your job is to look for data or analyse a particular gameobject.
+
+![I wish I was this smart](https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif)
+
 **Inspector Window** is used to modify the components of the game object that’s used to create a video game.
 
 When you open an empty project, at the very beginning you will see a blank inspector window on the right of the editor. *If you don’t see any inspector window floating on your editor then do the following: 👇*
@@ -14,4 +18,4 @@ Click the *Main Camera* from the Hierarchy Window and you will see its propertie
     
 ![editor](./Images/e1.png)
     
-*Recommended: 🔴 Play around with these values to get comfortable with the **Inspector.***
+Play around with the cube you created using the inspector. You're almost there, I'll see you on the finish line! 🏁
