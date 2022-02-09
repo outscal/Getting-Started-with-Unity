@@ -6,5 +6,5 @@
  
  You can press Ctrl + 4 to open the Hierarchy window.
 
-![hie](./Images/hie.png)
+![Hierarchy](./Images/hie.png)
 
