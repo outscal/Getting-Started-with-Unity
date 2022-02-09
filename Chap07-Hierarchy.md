@@ -6,12 +6,3 @@
 
 ![hie](./Images/hie.png)
 
-<aside>
-
-> 💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
-
-</aside>
-
-![discord](./Images/discord.png)
-
----
