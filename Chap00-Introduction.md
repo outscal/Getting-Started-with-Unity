@@ -2,7 +2,7 @@
 
 Hello there 👋
 
-So you have finally decided to learn Unity. First off let me congratulate you on making it thi far and taking the plunge. You're already off to a good start. Keep the momentum going.
+So you have finally decided to learn Unity. First off let me congratulate you on making it this far and taking the plunge. You're already off to a good start. Keep the momentum going.
 
 Before you had into battle. You're going to need a little something to add in your arsenal.
 
