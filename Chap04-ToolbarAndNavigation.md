@@ -86,6 +86,6 @@ We covered a lot in this one. Feel free to take a breather over here.
 
 Maybe share your progress with the world via LinkedIn & Twitter?
 
-Once you're done posting fill this form so that we can also track your progress and give you cool stuff for getting this far!
+Once you're done posting fill this [form](https://airtable.com/shrXGSkgf5NClpoIU) so that we can also track your progress and give you cool stuff for getting this far!
 
 ![Ok maybe not!](https://media.giphy.com/media/MrwTZfbNw4tgA7ijsR/giphy.gif)
