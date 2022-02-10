@@ -29,6 +29,8 @@ Components are basically modules that you can swap in and out to add certain fun
 
 You can use all of these modules together to start building your GameObject. 
 
+## Wrapping Up
+
 ![So Many Modules](https://media.giphy.com/media/3oKIPqsXYcdjcBcXL2/giphy-downsized-large.gif)
 
 Covering all the modules over here is going to take too long. Also, I am busy and totally not trying to hide the fact that I don't know what each module does 😶. Moving on! 

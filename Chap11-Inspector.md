@@ -1,8 +1,11 @@
 #  Inspector
 
+## Overview 
 As an Inspector your job is to look for data or analyse a particular gameobject.
 
 ![I wish I was this smart](https://media.giphy.com/media/fv8KclrYGp5dK/giphy.gif)
+
+## The Inspector Window
 
 **Inspector Window** is used to modify the components of the game object that’s used to create a video game.
 
@@ -17,5 +20,7 @@ Click the *Main Camera* from the Hierarchy Window and you will see its propertie
 *Main Camera* is actually a *game object* in Unity. Hence, you can customize its properties i.e., enabling/disabling the game object, changing its position, color, size, projection, and many more.
     
 ![editor](./Images/e1.png)
+
+## Wrapping up
     
 Play around with the cube you created using the inspector. You're almost there, I'll see you on the finish line! 🏁

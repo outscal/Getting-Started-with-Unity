@@ -2,6 +2,8 @@
 
 Ok so you have organized your layout neatly. Let's see if your layout is actually helping you in your productivity.
 
+## Your First GameObject
+
 Let's build our first GameObject. Right Click on an empty area inside the Hierarchy and go to 3D Object -> Cube
 
 ![Create your First GameObject](./Images/CreateCube.png)
@@ -11,6 +13,8 @@ Ok before we move further, this is a big moment. You just made your first GameOb
 ![Is this too much?](https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif)
 
 Ok, got a little carried away there. Back to business.
+
+## Navigation
 
 The scene view will be the where you will be able to see and manipulate all of your game objects. 
 
@@ -25,6 +29,8 @@ Pan – Pan around the scene. Hold the Alt key and click-drag with the middle mo
 Zoom - Zoom in and out of scene view, hold the Alt key, and right-click and drag
 
 Rotate – To rotate in the scene view, hold the Alt key and click and Drag
+
+## Modifying GameObjects
 
 Before trying the next actions. Select the Cube Object that you just created. If you cannot see it in scene view Double Click on it and the scene view should show up automatically.
 
@@ -72,6 +78,7 @@ Collab – Launch Unity Collaborate
     
 ![Collab](./Images/COllab.png)
     
+## Account and View Management
 
 Cloud icon opens the Unity Services Window
 

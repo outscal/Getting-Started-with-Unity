@@ -1,5 +1,7 @@
 # Layout
 
+## Overview
+
 I am hoping that you have understood what ECS is and thus allowing you to open a new project in Unity 😏
 
 When you open Unity for the first time, it is easy to get confused with all the windows and tools that show up. Ignore all the fluff and let's try one thing at a time.
@@ -17,7 +19,7 @@ Drag the *The Project tab* and attach it beside the Hierarchy tab:
 *The Hierarchy tab* can also be completely detached from the Editor and can be used as a floating window.
 ![Detach_hierarchy](./Images/Detach_hierarchy.png)
 
-Note:🔴
+## Note:🔴
 
 A View can have multiple tabs, in which case these tabs can be shown only one at a time, for eg, below, we can see Hierarchy and Project tabs in the same view, in this case, we can open up either the Project Tab or Hierarchy tab only one at a time, of course, tabs can be shifted elsewhere as shown above if they need to be viewed simultaneously.
     
@@ -40,6 +42,8 @@ At any time, you can right-click on a tab and a pop up menu will show up with th
 Finally, once you have decided on your own layout of the editor with required tabs and views, you also have the option to save the layout using the *Layout* options found under the layout dropdown (top right corner of Editor), then you can quickly switch back to your saved layouts if any changes are made to the current layout at any point:
     
 ![Layout Save](./Images/layout_save.png)
+
+## Wrapping Up
     
 Please have a good layout in place for your projects. It will help you speed up your development and it helps me with my OCD. 
 

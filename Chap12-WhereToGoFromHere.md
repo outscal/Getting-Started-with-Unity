@@ -1,5 +1,7 @@
 # Showcase To The World!
 
+## You made it!
+
 Ayyyy Look who made it! Congrats on taking your first step in the industry. 
 
 Pop a bottle of champagne. Party like there is no tomorrow.
