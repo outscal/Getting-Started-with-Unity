@@ -93,7 +93,7 @@ Cloud icon opens the Unity Services Window
    
 We covered a lot in this one. Feel free to take a breather over here.
 
-**Ohh I almost forgot, you also earned 5 Learning points. Do the following to secure them. Click on the gif below and follow the instructions**
+**Ohh I almost forgot, you have the chance to earn 5 Learning points. Click on the gif below and follow the instructions to secure them** ⏬
 
 
 [![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
