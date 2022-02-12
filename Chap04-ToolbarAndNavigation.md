@@ -96,4 +96,4 @@ We covered a lot in this one. Feel free to take a breather over here.
 **Ohh I almost forgot, you also earned 5 Learning points. Do the following to secure them. Click on the gif below and follow the instructions**
 
 
-[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)]
