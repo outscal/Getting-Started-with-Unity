@@ -89,11 +89,8 @@ Cloud icon opens the Unity Services Window
 *MyLayout* lets you change the arrangement of Views/Tabs in your Editor
 
 
-## We have got a little something for you!
-   
+## Wrapping Up
+
 We covered a lot in this one. Feel free to take a breather over here.
 
-**Ohh I almost forgot, you have the chance to earn 5 Learning points. Click on the gif below and follow the instructions to secure them** ⏬
-
-
-[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+Drink some water, will you? And let's continue!
