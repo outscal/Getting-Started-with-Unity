@@ -21,7 +21,7 @@ As you learn and upskill yourself, you can earn learning points. These points ca
 
 **Click on the gif below and follow the instructions** ⏬
 
-[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+[![Click me!](https://media.giphy.com/media/iKBAAfYNDu1dowhnEj/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
 
 You can also click here - [Click Here!](https://academy.outscal.com/welcome/build-in-public/assignments)
 
