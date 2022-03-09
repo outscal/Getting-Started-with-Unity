@@ -24,8 +24,9 @@ You can also click here - [Click Here!](https://academy.outscal.com/welcome/buil
 
 ## What next
 
-You can start building your first game (Finally!) by going through the 2D Platformer Course here - [Unity Courses](https://academy.outscal.com/unity-course-content/)
+Familiarize yourself with the editor. The more you practice the faster you will get.
 
+You're off to a good start, let's continue to the next one and add your first character to the game - [Unity Animations](https://academy.outscal.com/unity-animations/)
 
 Well, that's it from me on this one I guess. I will see you guys in the next one, keep building guys!
 
